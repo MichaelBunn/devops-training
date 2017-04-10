@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+npm-debug.log
+*.env
+.idea
+.jscsrc
+.jshintrc
+.travis.yml
+.iml
+
